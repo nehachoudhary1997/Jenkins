@@ -17,6 +17,6 @@ docker-compose up -d
 ### check:
 docker exec -it jenkins bash <br />
 ssh root@remote_host <br />
-cat /etc/*release* <br />
+cat /etc/\*release* <br />
 
 ----------------------------------------------------------------------------------------------
