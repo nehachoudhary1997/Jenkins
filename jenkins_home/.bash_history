@@ -28,3 +28,7 @@ ssh root@remote_host
 ssh root@remote_host
 ssh root@remote_host
 exit
+ping google.com
+exit
+ssh remote_host@remotehost
+exit
