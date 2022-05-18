@@ -7,3 +7,5 @@ ls
 cd tmp
 ls
 exit
+cat /tmp/script.sh 
+exit

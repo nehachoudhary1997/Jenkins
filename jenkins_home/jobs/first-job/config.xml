@@ -16,6 +16,22 @@
           <description>Last Name</description>
           <trim>false</trim>
         </hudson.model.StringParameterDefinition>
+        <hudson.model.ChoiceParameterDefinition>
+          <name>YEAR</name>
+          <description>Year born</description>
+          <choices class="java.util.Arrays$ArrayList">
+            <a class="string-array">
+              <string>1997</string>
+              <string>1998</string>
+              <string>1996</string>
+              <string>1999</string>
+            </a>
+          </choices>
+        </hudson.model.ChoiceParameterDefinition>
+        <hudson.model.BooleanParameterDefinition>
+          <name>SHOW_NAME</name>
+          <defaultValue>true</defaultValue>
+        </hudson.model.BooleanParameterDefinition>
       </parameterDefinitions>
     </hudson.model.ParametersDefinitionProperty>
   </properties>
@@ -28,7 +44,7 @@
   <concurrentBuild>false</concurrentBuild>
   <builders>
     <hudson.tasks.Shell>
-      <command>sh +x /tmp/script.sh $FIRST $SECOND
+      <command>sh +x /tmp/script.sh $FIRST $SECOND $YEAR $SHOW_NAME
 </command>
       <configuredLocalRules/>
     </hudson.tasks.Shell>

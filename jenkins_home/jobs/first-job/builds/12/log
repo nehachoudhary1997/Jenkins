@@ -1,0 +1,8 @@
+Started by user [8mha:////4Jl9L52e0gGKIf72jDvte6OqkOdqzL1vRqZbg6Xv8/NfAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/first-job
+[first-job] $ /bin/sh -xe /tmp/jenkins1376019213354264128.sh
++ sh +x /tmp/script.sh M M 1997 false
+/tmp/script.sh: 2: [[false: not found
+born in 1997
+Finished: SUCCESS

@@ -1,0 +1,8 @@
+Started by user [8mha:////4Jl9L52e0gGKIf72jDvte6OqkOdqzL1vRqZbg6Xv8/NfAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/first-job
+[first-job] $ /bin/sh -xe /tmp/jenkins8342046802384684138.sh
++ sh +x /tmp/script.sh Neha None 1997
+Hi, Neha None , current date and time is Wed May 18 01:13:36 UTC 2022
+born in 1997
+Finished: SUCCESS
